@@ -1,0 +1,14 @@
+nav:
+    - Architecture-Overview.md
+    - Building-Locally.md
+    - Project-structure-and-major-classes.md
+    - Coding-standards.md
+    - Game-Making-Tips.md
+    - UI-development.md
+    - Map-rendering.md
+    - Saved-games-and-transients.md
+    - Uniques.md
+    - Unique-replacement-process.md
+    - Translations,-mods,-and-modding-freedom-in-Open-Source.md
+    - Testing-Android-Builds.md
+    - From-code-to-deployment.md

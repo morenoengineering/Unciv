@@ -16,7 +16,7 @@ The most valuable first step to getting involved is engaging with our community:
 
 In addition, you can keep track of requests, bugs, and our todo list for the application at the repository's [Issue Tracker](https://github.com/yairm210/Unciv/issues)
 
-If you're a developer, you'll probably want to start at the [Getting Started](Developers/Building-Locally.md) page!
+If you're a developer, you'll probably want to start at the [Getting Started](Developers/Building-Locally.md) page, and the [Architecture Overview](Developers/Architecture-Overview.md) for a map of the codebase!
 
 If you're a translator, head over to [Translating!](Translating/Translating.md)
 
